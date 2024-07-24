@@ -12,9 +12,7 @@ OpenCV (cv2)
 ## Installation
 Clone the repository:
 
-### Copy code
-git clone https://github.com/yourusername/ImageSteganographyTool.git
-cd ImageSteganographyTool
+
 Install the required Python packages:
 
 ### Copy code
