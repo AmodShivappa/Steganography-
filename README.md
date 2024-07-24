@@ -1,5 +1,5 @@
 # Image Steganography Tool
-# This tool allows you to embed a secret message into an image and later decrypt it using a password. It uses a simple encryption mechanism to hide the message within the pixel values of the image.
+## This tool allows you to embed a secret message into an image and later decrypt it using a password. It uses a simple encryption mechanism to hide the message within the pixel values of the image.
 
 ## Features
 Encrypts a secret message into an image
